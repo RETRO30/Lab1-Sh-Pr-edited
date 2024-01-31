@@ -4,4 +4,4 @@ project("${PROJECT_NAME}")
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable("${PROJECT_NAME}" ../Res/Lab2.cpp)
+add_executable("${PROJECT_NAME}" Lab2.cpp)
